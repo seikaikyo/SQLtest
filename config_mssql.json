@@ -1,0 +1,9 @@
+{
+    "server": "your_server",
+    "user": "your_username",
+    "password": "your_password",
+    "databases": {
+        "production": "your_production_database",
+        "test": "your_test_database"
+    }
+}
